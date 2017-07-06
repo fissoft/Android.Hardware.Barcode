@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>Xamarin.Android.Hardware.Barcode</id>
-    <version>1.0.0.1</version>
+    <version>1.0.0.3</version>
     <title>Android.Hardware.Barcode for Xamarin Android</title>
     <authors>Zou Jian,Fissoft</authors>
     <icon>https://avatars2.githubusercontent.com/u/8520426</icon>
